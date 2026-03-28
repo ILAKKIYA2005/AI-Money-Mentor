@@ -1,5 +1,7 @@
 # MONEY MIRROR AI – Smart Financial Mentor
 
+**Live Demo**: [https://ec406dd925bbc3.lhr.life](https://ec406dd925bbc3.lhr.life)
+
 A futuristic, AI-powered personal finance application designed with a Neon-Glassmorphism aesthetic to help users track expenses, receive AI-driven financial advice, and discover Indian government schemes.
 
 ## Tech Stack
